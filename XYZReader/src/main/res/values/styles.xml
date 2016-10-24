@@ -29,8 +29,6 @@
     </style>
     <style name="Theme.Bacon.Detail" parent="Theme.Bacon">
     </style>
-
     <style name="Theme.Bacon.List" parent="Theme.Bacon">
-        <item name="android:windowExitTransition">@transition/slide_up</item>
     </style>
 </resources>
